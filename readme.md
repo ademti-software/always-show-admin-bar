@@ -17,6 +17,12 @@ Non logged in users will see the bar in the normal place, complete with a login 
 
 Install, activate :)
 
+## Frequently asked questions
+
+### How do I get support for this plugin?
+
+This plugin is no longer supported and is provided for reference purposes only.
+
 ## Screenshots
 
 ### Admin bar for non-logged in users
